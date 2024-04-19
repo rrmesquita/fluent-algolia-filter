@@ -1,0 +1,16 @@
+{
+  "name": "fluent-algolia-filter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Write Algolia filters in a fluent and elegant manner.",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vitest": "^1.4.0"
+  }
+}
